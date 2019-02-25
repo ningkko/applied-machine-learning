@@ -34,7 +34,27 @@
 - Chapter 9: From the Perceptron to Support Vector Machines 171
 - Chapter 10: From the Perceptron to Artificial Neural Networks 187
 
-**4. Implements**
+**4. A Course in Machine Learning **
+- 1 Decision Trees
+- 2 Limits of Learning
+- 3 Geometry and Nearest Neighbors 29
+- 4 The Perceptron 41
+- 5 Practical Issues 55
+- 6 Beyond Binary Classification 73
+- 7 Linear Models 87
+- 8 Bias and Fairness
+- 9 Probabilistic Modeling
+- 10 Neural Networks 129
+- 11 Kernel Methods 141
+- 12 Learning Theory 154
+- 13 Ensemble Methods 164
+- 14 Efficient Learning 171
+- 15 Unsupervised Learning
+- 16 Expectation Maximization
+- 17 Structured Prediction
+- 18 Imitation Learning 212
+
+**5. Implements**
 - <del>Linear Regression ✅
 - Logistic Regression
 - <del>Perceptron ✅
@@ -50,3 +70,4 @@ Links:
 2. [The Hundred-Page Machine Learning Book](http://themlbook.com/wiki/doku.php)
 3. [Mastering Machine Learning with Scikit-Learn](https://tanthiamhuat.files.wordpress.com/2018/04/mastering-machine-learning-with-scikit-learn.pdf)
 4. [Learning scikit-learn: Machine Learning in Python](https://www.oreilly.com/library/view/learning-scikit-learn-machine/9781783281930/)
+5. [A Course in Machine Learning](http://ciml.info/)
