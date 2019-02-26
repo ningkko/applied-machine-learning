@@ -17,7 +17,7 @@
 - Chapter 11: Conclusion
   
 **2. Learning scikit-learn: Machine Learning in Python**
-- Introduction
+- <del>Introduction</del> ✅
 - Supervised Learning
 - Unsupervised Learning
 - Advanced Features
