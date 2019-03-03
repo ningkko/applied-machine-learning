@@ -18,20 +18,20 @@
   
 **2. Learning scikit-learn: Machine Learning in Python**
 - <del>Introduction</del> ✅
-- Supervised Learning
+- Supervised Learning ⭕
 - Unsupervised Learning
 - Advanced Features
 
 **3.Mastering Machine Learning with scikit-learn**
 - <del>Chapter 1: The Fundamentals of Machine Learning 7</del>✅
 - <del>Chapter 2: Linear Regression 21</del> ✅ 
-- Chapter 3: Feature Extraction and Preprocessing 51
-- Chapter 4: From Linear Regression to Logistic Regression 71
+- Chapter 3: Feature Extraction and Preprocessing 51 ⭕
+- Chapter 4: From Linear Regression to Logistic Regression 71 ⭕
 - Chapter 5: Nonlinear Classification and Regression with Decision Trees 97
-- Chapter 6: Clustering with K-Means 115
+- Chapter 6: Clustering with K-Means 115 ⭕
 - Chapter 7: Dimensionality Reduction with PCA 137
-- Chapter 8: The Perceptron 155
-- Chapter 9: From the Perceptron to Support Vector Machines 171
+- Chapter 8: The Perceptron 155 ⭕
+- Chapter 9: From the Perceptron to Support Vector Machines 171 ⭕
 - Chapter 10: From the Perceptron to Artificial Neural Networks 187
 
 **4. A Course in Machine Learning**
@@ -45,7 +45,7 @@
 - 8 Bias and Fairness
 - 9 Probabilistic Modeling
 - 10 Neural Networks 129
-- 11 Kernel Methods 141
+- 11 Kernel Methods 141 
 - 12 Learning Theory 154
 - 13 Ensemble Methods 164
 - 14 Efficient Learning 171
@@ -56,10 +56,10 @@
 
 **5. Implements**
 - <del>Linear Regression </del> ✅
-- Logistic Regression
+- Logistic Regression ⭕
 - <del>Perceptron </del> ✅
 - <del>SVM</del> ✅
-- Decision Tree
+- Decision Tree ⭕
 - Random Forest
 - Classification and regression trees
 - NNWs
