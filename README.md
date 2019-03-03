@@ -58,7 +58,7 @@
 - <del>Linear Regression </del> ✅
 - Logistic Regression
 - <del>Perceptron </del> ✅
-- SVM
+- <del>SVM</del> ✅
 - Decision Tree
 - Random Forest
 - Classification and regression trees
