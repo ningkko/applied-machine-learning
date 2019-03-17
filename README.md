@@ -25,7 +25,7 @@
 **3.Mastering Machine Learning with scikit-learn**
 - <del>Chapter 1: The Fundamentals of Machine Learning 7</del>✅
 - <del>Chapter 2: Linear Regression 21</del> ✅ 
-- Chapter 3: Feature Extraction and Preprocessing 51 ⭕
+- <del>Chapter 3: Feature Extraction and Preprocessing 51</del> ✅
 - Chapter 4: From Linear Regression to Logistic Regression 71 ⭕
 - Chapter 5: Nonlinear Classification and Regression with Decision Trees 97
 - Chapter 6: Clustering with K-Means 115 ⭕
