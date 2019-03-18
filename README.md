@@ -1,6 +1,13 @@
 ## Applied Machine Learning 
 2019 Spring Special Study with professor John Foley @Smith College
 
+### Notes from [the Hundred-Page Machine Learning Book](http://themlbook.com/wiki/doku.php):
+- [Chapter 1: Introduction](https://ningkko.github.io/applied-machine-learning/Chap1-Introduction.html)
+- [Chapter 2: Notions and Definitions](https://ningkko.github.io/applied-machine-learning/Chap2-Notions_and_Definitions.html)
+- [Chapter 3: Fundamental Algorithms](https://ningkko.github.io/applied-machine-learning/Chap3-Fundamental_Algorithms.html)
+- [Chapter 4: Anatomy of a Learning Algorithm](https://ningkko.github.io/applied-machine-learning/Chap4-Anatomy_of_a_Learning_Algorithm.html)
+- [Chapter 5: Basic Practice](https://ningkko.github.io/applied-machine-learning/Chap5-Basic_Practice.html)
+
 ### Progress:
 
 **1. The Hundred-Page Machine Learning Book**
