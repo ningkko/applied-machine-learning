@@ -13,7 +13,7 @@
 **1. The Hundred-Page Machine Learning Book**
 - <del>Chapter 1: Introduction</del> ✅
 - <del>Chapter 2: Notation and Definitions</del> ✅
-- Chapter 3: Fundamental Algorithms
+- <del>Chapter 3: Fundamental Algorithms</del> ✅
 - <del>Chapter 4: Anatomy of a Learning Algorithm</del> ✅
 - <del>Chapter 5: Basic Practice</del> ✅
 - Chapter 6: Neural Networks and Deep Learning
@@ -65,7 +65,7 @@
 - <del>Linear Regression </del> ✅
 - <del>Perceptron </del> ✅
 - <del>SVM</del> ✅
-- Decision Tree ⭕
+- <del>Decision Tree</del> ✅
 - Random Forest
 - Classification and regression trees
 - NNWs
