@@ -65,9 +65,8 @@
 - <del>Linear Regression </del> ✅
 - <del>Perceptron </del> ✅
 - <del>SVM</del> ✅
-- <del>Decision Tree</del> ✅
+- <del>Decision Tree with CART</del> ✅
 - Random Forest
-- Classification and regression trees
 - NNWs
 
 
