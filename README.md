@@ -34,7 +34,7 @@
 - <del>Chapter 2: Linear Regression 21</del> ✅ 
 - <del>Chapter 3: Feature Extraction and Preprocessing 51</del> ✅
 - <del>Chapter 4: From Linear Regression to Logistic Regression 71</del> ✅
-- Chapter 5: Nonlinear Classification and Regression with Decision Trees 97
+- <del>Chapter 5: Nonlinear Classification and Regression with Decision Trees 97</del> ✅
 - Chapter 6: Clustering with K-Means 115 ⭕
 - Chapter 7: Dimensionality Reduction with PCA 137
 - Chapter 8: The Perceptron 155 ⭕
