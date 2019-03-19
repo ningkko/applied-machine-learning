@@ -42,8 +42,8 @@
 - Chapter 10: From the Perceptron to Artificial Neural Networks 187
 
 **4. A Course in Machine Learning**
-- 1 Decision Trees
-- 2 Limits of Learning
+- <del>1 Decision Trees</del> ✅
+- <del>2 Limits of Learning</del> ✅
 - 3 Geometry and Nearest Neighbors 29
 - 4 The Perceptron 41
 - 5 Practical Issues 55
