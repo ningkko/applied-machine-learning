@@ -19,7 +19,7 @@
 - Chapter 6: Neural Networks and Deep Learning
 - Chapter 7: Problems and Solutions
 - Chapter 8: Advanced Practice
-- Chapter 9: Unsupervised Learning
+- <del>Chapter 9: Unsupervised Learning </del> ✅
 - Chapter 10: Other Forms of Learning
 - Chapter 11: Conclusion
   
@@ -35,8 +35,8 @@
 - <del>Chapter 3: Feature Extraction and Preprocessing 51</del> ✅
 - <del>Chapter 4: From Linear Regression to Logistic Regression 71</del> ✅
 - <del>Chapter 5: Nonlinear Classification and Regression with Decision Trees 97</del> ✅
-- Chapter 6: Clustering with K-Means 115 ⭕
-- Chapter 7: Dimensionality Reduction with PCA 137
+- <del>Chapter 6: Clustering with K-Means 115</del> ✅
+- <del>Chapter 7: Dimensionality Reduction with PCA 137</del> ✅
 - Chapter 8: The Perceptron 155 ⭕
 - Chapter 9: From the Perceptron to Support Vector Machines 171 ⭕
 - Chapter 10: From the Perceptron to Artificial Neural Networks 187
