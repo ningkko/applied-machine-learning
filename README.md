@@ -7,19 +7,20 @@
 - [Chapter 3: Fundamental Algorithms](https://ningkko.github.io/applied-machine-learning/Chap3-Fundamental_Algorithms.html)
 - [Chapter 4: Anatomy of a Learning Algorithm](https://ningkko.github.io/applied-machine-learning/Chap4-Anatomy_of_a_Learning_Algorithm.html)
 - [Chapter 5: Basic Practice](https://ningkko.github.io/applied-machine-learning/Chap5-Basic_Practice.html)
+- [K Means Clustering and PCA](https://ningkko.github.io/applied-machine-learning/KMC_PCA.html)
 
 ### Progress:
 
 **1. The Hundred-Page Machine Learning Book**
 - <del>Chapter 1: Introduction</del> ✅
 - <del>Chapter 2: Notation and Definitions</del> ✅
-- Chapter 3: Fundamental Algorithms
+- <del>Chapter 3: Fundamental Algorithms</del> ✅
 - <del>Chapter 4: Anatomy of a Learning Algorithm</del> ✅
 - <del>Chapter 5: Basic Practice</del> ✅
 - Chapter 6: Neural Networks and Deep Learning
 - Chapter 7: Problems and Solutions
 - Chapter 8: Advanced Practice
-- Chapter 9: Unsupervised Learning
+- <del>Chapter 9: Unsupervised Learning </del> ✅
 - Chapter 10: Other Forms of Learning
 - Chapter 11: Conclusion
   
@@ -34,16 +35,16 @@
 - <del>Chapter 2: Linear Regression 21</del> ✅ 
 - <del>Chapter 3: Feature Extraction and Preprocessing 51</del> ✅
 - <del>Chapter 4: From Linear Regression to Logistic Regression 71</del> ✅
-- Chapter 5: Nonlinear Classification and Regression with Decision Trees 97
-- Chapter 6: Clustering with K-Means 115 ⭕
-- Chapter 7: Dimensionality Reduction with PCA 137
+- <del>Chapter 5: Nonlinear Classification and Regression with Decision Trees 97</del> ✅
+- <del>Chapter 6: Clustering with K-Means 115</del> ✅
+- <del>Chapter 7: Dimensionality Reduction with PCA 137</del> ✅
 - Chapter 8: The Perceptron 155 ⭕
 - Chapter 9: From the Perceptron to Support Vector Machines 171 ⭕
 - Chapter 10: From the Perceptron to Artificial Neural Networks 187
 
 **4. A Course in Machine Learning**
-- 1 Decision Trees
-- 2 Limits of Learning
+- <del>1 Decision Trees</del> ✅
+- <del>2 Limits of Learning</del> ✅
 - 3 Geometry and Nearest Neighbors 29
 - 4 The Perceptron 41
 - 5 Practical Issues 55
@@ -65,9 +66,8 @@
 - <del>Linear Regression </del> ✅
 - <del>Perceptron </del> ✅
 - <del>SVM</del> ✅
-- Decision Tree ⭕
+- <del>Decision Tree with CART</del> ✅
 - Random Forest
-- Classification and regression trees
 - NNWs
 
 
