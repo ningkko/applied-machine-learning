@@ -7,7 +7,7 @@
 - [Chapter 3: Fundamental Algorithms](https://ningkko.github.io/applied-machine-learning/Chap3-Fundamental_Algorithms.html)
 - [Chapter 4: Anatomy of a Learning Algorithm](https://ningkko.github.io/applied-machine-learning/Chap4-Anatomy_of_a_Learning_Algorithm.html)
 - [Chapter 5: Basic Practice](https://ningkko.github.io/applied-machine-learning/Chap5-Basic_Practice.html)
-- [Chapter 6: Neural Networks and Deep Learning](https://github.com/ningkko/applied-machine-learning/blob/master/Chap6-NNW-and-DeepLearning.html)
+- [Chapter 6: Neural Networks and Deep Learning](https://ningkko.github.io/applied-machine-learning/Chap6-NNW-and-DeepLearning.html)
 - [K Means Clustering and PCA](https://ningkko.github.io/applied-machine-learning/KMC_PCA.html)
 
 ### Progress:
