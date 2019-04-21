@@ -1,0 +1,81 @@
+import urllib.request
+import gzip
+import json
+
+DATA_URL = "http://ciir.cs.umass.edu/downloads/poetry/poetry50k.dedup.jsonl.gz"
+
+data_5k = []
+
+handle = urllib.request.urlopen(DATA_URL)
+with gzip.GzipFile(fileobj=handle) as fp:
+    for line in fp:
+        content = json.loads(line)
+        if content["score"]>0.65:
+            data_5k.append(content["text"]) 
+    
+
+
+
+
+
+
+
+dictionary_5k = {}
+sentence_lengthes_5k = {}
+previous_word = ""
+preprevious_word = ""
+
+
+punctuations = '''!()-[]{};:"\,<>./?@#$%^&*_~134567890«»|'''
+translator = str.maketrans('', '', punctuations)
+for poem in data_5k:
+    lines = poem.split('<br />')
+
+        # first lines are usually titles
+        for line in lines[1:]:    
+            line = line.translate(translator)
+            newline = True          
+            index = 0
+            for word in line.split('\t'):
+
+                if not word == "I":
+                    word = word.lower()
+
+                if newline:
+
+                    if len(line) in sentence_lengthes_5k:
+                        sentence_lengthes_5k[len(line)] +=1
+                    else:
+                        sentence_lengthes_5k[len(line)]=1
+                        
+                    previous_word = ""
+                    preprevious_word = ""
+                    newline = False
+
+                if word in dictionary_5k:
+                    dictionary_5k[word]["frequency"] += 1
+                else:
+                    dictionary_5k[word] = {
+                                            "frequency":1,
+                                            "dict":{}
+                                            }
+                if index >= 2:
+                    if preprevious_word in dictionary_5k:
+
+                        preprevious_dict = dictionary_5k[preprevious_word]["dict"]
+                        if [previous_word,word] in preprevious_dict:
+                            preprevious_dict[[previous_word,word]]+=1
+                        else:
+                            preprevious_dict[[previous_word,word]] = 1
+
+                    else:
+                        print("preprevious word not in dictionary error")
+    
+                preprevious_word = preprevious_word
+                previous_word = word
+                index+=1
+
+
+
+
+
