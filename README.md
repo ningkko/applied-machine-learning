@@ -22,12 +22,12 @@
 - Chapter 7: Problems and Solutions
 - Chapter 8: Advanced Practice
 - <del>Chapter 9: Unsupervised Learning </del> ✅
-- Chapter 10: Other Forms of Learning
+- <del>Chapter 10: Other Forms of Learning </del> ✅
 - Chapter 11: Conclusion
   
 **2. Learning scikit-learn: Machine Learning in Python**
 - <del>Introduction</del> ✅
-- Supervised Learning ⭕
+- <del>Supervised Learning> ✅
 - Unsupervised Learning
 - Advanced Features
 
@@ -43,32 +43,11 @@
 - Chapter 9: From the Perceptron to Support Vector Machines 171 ⭕
 - Chapter 10: From the Perceptron to Artificial Neural Networks 187
 
-**4. A Course in Machine Learning**
-- <del>1 Decision Trees</del> ✅
-- <del>2 Limits of Learning</del> ✅
-- 3 Geometry and Nearest Neighbors 29
-- 4 The Perceptron 41
-- 5 Practical Issues 55
-- 6 Beyond Binary Classification 73
-- 7 Linear Models 87
-- 8 Bias and Fairness
-- 9 Probabilistic Modeling
-- 10 Neural Networks 129
-- 11 Kernel Methods 141 
-- 12 Learning Theory 154
-- 13 Ensemble Methods 164
-- 14 Efficient Learning 171
-- 15 Unsupervised Learning
-- 16 Expectation Maximization
-- 17 Structured Prediction
-- 18 Imitation Learning 212
-
 **5. Implements**
 - <del>Linear Regression </del> ✅
 - <del>Perceptron </del> ✅
 - <del>SVM</del> ✅
 - <del>Decision Tree with CART</del> ✅
-- Random Forest
 - NNWs
 
 
